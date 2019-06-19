@@ -5,9 +5,9 @@ Image of Human face was hard to detect, but after deep learning things have chan
 ## Things Done
 * Prediction of face coordinates on real-time Webcam
 * Prediction of 68 major Landmarks on face
-![](Screenshot%202.png)
+![](Screenshot2.png)
 * Applying lipstick on the mouth and retaining the luminosity to get a real effect
-![](Screenshot%203.png)
+![](Screenshot3.png)
 
 ## Structure of Repo
 * There are two ways to explore my work 
